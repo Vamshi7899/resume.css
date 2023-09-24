@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(255, 245, 224);
+    font-size:20px;
+    font-family: 'Caveat', cursive;
+}
+#name{
+    
+background-color:darkorchid;
+text-align: center;
+font-size: 1.5rem;
+}
+
+#summary{
+background-color: navy;
+color: white;
+}
+#ed{
+    background-color: rgb(199, 0, 57);
+}
+#work{
+    background-color: rgb(255, 105, 105);
+}
+#skills{
+    background-color: antiquewhite;
+}
+
+#cert{
+    background-color: aquamarine;
+}
+
+#others{
+    background-color: gray;
+}
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600&display=swap" rel="stylesheet">
